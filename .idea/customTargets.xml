@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="fe9eacec-60b8-456e-b6d8-8ece52c81de4" name="gcc" defaultType="TOOL">
+      <configuration id="bb63d4c8-423a-46fd-8dda-1137b52dadfb" name="gcc">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_gcc" />
+        </build>
+      </configuration>
+    </target>
+  </component>
+</project>
